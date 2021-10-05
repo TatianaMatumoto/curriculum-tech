@@ -37,6 +37,7 @@
 
 ## Eventos
 
+- Workshop Online, Front-end rápido e fácil com Bootstrap - Escola Britânica de Artes Criativas & Tecnologia (EBAC) (2021) 
 - 3° Encontro de Mulheres na Tecnologia da Informação - EMUTEC (2020)
 - Workshop para mulheres: Faça seu primeiro jogo digital - iClinic Carreiras (2020)
 
